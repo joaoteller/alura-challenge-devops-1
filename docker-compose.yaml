@@ -1,7 +1,7 @@
 version: '3.3'
 services:
   aluraflix-app:
-    image: challenge_devops_app
+    image: joaoteller/challenge_devops_app
     container_name: aluraflix-app
     volumes:
       - db:/app
