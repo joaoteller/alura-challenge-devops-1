@@ -18,8 +18,4 @@ Para subir a aplicação (disponível em ``http://localhost:8000``):
 
 Para autenticação, criar super user:
 
-<<<<<<< HEAD
     docker exec -it aluraflix-app python manage.py createsuperuser
-=======
-    docker exec -it aluraflix-app python manage.py createsuperuser
->>>>>>> master
